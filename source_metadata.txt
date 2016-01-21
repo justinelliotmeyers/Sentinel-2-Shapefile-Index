@@ -1,0 +1,9 @@
+Source: https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2/data-products
+
+For Level-1C and Level-2A, the granules, also called tiles, are 100 km2 ortho-images in UTM/WGS84 projection. Download the Sentinel-2 tiling grid kml here.
+The UTM (Universal Transverse Mercator) system divides the Earth's surface into 60 zones. Each UTM zone has a vertical width of 6° of longitude and horizontal width of 8° of latitude.
+
+
+ESA terms and conditions here: https://sentinels.copernicus.eu/web/sentinel/terms-conditions
+
+
